@@ -2,15 +2,15 @@
     background-color: #ff7c7c;
     font-family: Verdana, "Dejavu Sans", sans-serif;
 }
-.blue {
+#blue {
     color: #4169e1 ;
     font-size: 36px;
 }
 .large {
     font-size: 24px;
 }
-.green {
+#green {
     background-color: #62f088;
     font-weight: bold;
-    font-size: 24px
+    font-size: 24px;
 }

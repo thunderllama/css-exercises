@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.odd-line {
+    color:#000000;
+    background-color: #f09595;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}

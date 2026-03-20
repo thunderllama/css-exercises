@@ -1,3 +1,5 @@
+/* The solution on github specifies adding "height: auto" to the first image*/
+
 .avatar.proportioned {
     width: 300px;
 }
